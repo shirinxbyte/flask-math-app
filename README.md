@@ -6,7 +6,7 @@ A lightweight Flask application that demonstrates:
 - Clean Python packaging
 
 
-<img width="1375" alt="Screenshot 2025-05-10 at 10 24 26 am" src="https://github.com/user-attachments/assets/c464c2e5-dbd1-468e-9af4-71c01506ce03" />
+<img width="1375" alt="Screenshot 2025-05-10 at 10 24 26 am" src="https://github.com/user-attachments/assets/c464c2e5-dbd1-468e-9af4-71c01506ce03" /> 
  
 
 ## 🌟 Features
