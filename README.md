@@ -1,6 +1,6 @@
 # 🧮 Math Operations Web App
 
-A lightweight Flask application that demonstrates:
+A lightweight Flask application that demonstrates: 
 - Server-side math operations API
 - Interactive web interface
 - Clean Python packaging
